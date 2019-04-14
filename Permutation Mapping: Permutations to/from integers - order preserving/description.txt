@@ -1,0 +1,1 @@
+Permutation Mapping: Permutations to/from integers - order preserving

@@ -1,0 +1,1 @@
+Manacher (Finds the length of the longest odd and even palindromes centered on an index): O(N)
