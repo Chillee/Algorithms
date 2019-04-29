@@ -9,3 +9,5 @@ typedef unsigned long long ull;
 ```
 
 Repo automatically generated from https://gist.github.com/Chillee. Some algorithms will have comments on the gists.
+
+Many of the best implementations here have/are being ported to https://github.com/kth-competitive-programming/kactl
